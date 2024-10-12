@@ -1,4 +1,37 @@
-## Hi there 👋
+### Muhammed Hakkim N 👋 [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammedhakkimn/)](https://www.linkedin.com/in/muhammedhakkimn/)
+
+> Anyone can learn anything at any stage, if they wish too...
+
+
+
+- 👩‍🔬 Bioinformatician | Computational Biologist | Big Data Analyst
+- 🔭 Currently working at the University of Kerala
+- 💻 Experienced working with transcriptomics and genomics data, data visualization and data analysis in R
+
+
+
+<!--
+**muhammedhakkim20/muhammedhakkim20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Github Stats](https://github-readme-stats.vercel.app/api?username=muhammedhakkim20&count_private=true&show_icons=true)
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedhakkim20&hide=TeX&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=muhammedhakkim20.muhammedhakkim20)
+
+
 
 <!--
 **muhammedhakkim20/muhammedhakkim20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
