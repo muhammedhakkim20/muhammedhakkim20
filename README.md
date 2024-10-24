@@ -4,7 +4,7 @@
 
 
 
-- 👩‍🔬 Bioinformatician | Computational Biologist | Big Data Analyst
+- 👩‍🔬 Bioinformatician | Computational Biologist | NGS Data Analyst
 - 💻 Experienced working with transcriptomics and genomics data, data visualization and data analysis in R & Pythom
 
 
