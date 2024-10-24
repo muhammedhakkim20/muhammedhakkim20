@@ -5,8 +5,7 @@
 
 
 - 👩‍🔬 Bioinformatician | Computational Biologist | Big Data Analyst
-- 🔭 Currently working at the University of Kerala
-- 💻 Experienced working with transcriptomics and genomics data, data visualization and data analysis in R
+- 💻 Experienced working with transcriptomics and genomics data, data visualization and data analysis in R & Pythom
 
 
 
