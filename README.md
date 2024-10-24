@@ -1,6 +1,6 @@
 ### Muhammed Hakkim N 👋 [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammedhakkimn/)](https://www.linkedin.com/in/muhammedhakkimn/)
 
-> Anyone can learn anything at any stage, if they wish too...
+> Anyone can learn anything at any stage of life, if they wish to...
 
 
 
